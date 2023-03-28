@@ -17,4 +17,3 @@ app.get('/about', (req,res) => {
 app.listen(port, () => {
     console.log(`server is created: ${port}`)
 })
-
